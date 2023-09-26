@@ -104,7 +104,7 @@ theme: 3-hexo
 deploy:
   type: git
   repo: https://github.com/chuanyue98/chuanyue98.github.io.git
-  branch: master
+  branch: gh-pages
 
 search:
   path: search.xml
